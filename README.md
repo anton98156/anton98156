@@ -1,12 +1,10 @@
 <br clear="both">
 
 <div align="center">
-  <img height="300" width="600" src="[https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5uY3BjZmppaWcxYm53Z2U4cTlpazkzOWRxZW1ndThmOXVja3MzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif)"  />
+  <img height="300" width="600" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5uY3BjZmppaWcxYm53Z2U4cTlpazkzOWRxZW1ndThmOXVja3MzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif"/>
 </div>
 
-###
-
-<h1 align="center">Привет👋 Меня зовут Владимир!</h1>
+https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5uY3BjZmppaWcxYm53Z2U4cTlpazkzOWRxZW1ndThmOXVja3MzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif
 
 ###
 
