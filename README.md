@@ -4,8 +4,6 @@
   <img height="300" width="600" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5uY3BjZmppaWcxYm53Z2U4cTlpazkzOWRxZW1ndThmOXVja3MzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif"/>
 </div>
 
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5uY3BjZmppaWcxYm53Z2U4cTlpazkzOWRxZW1ndThmOXVja3MzdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/doXBzUFJRxpaUbuaqz/giphy.gif
-
 ###
 
 <div align="center">
