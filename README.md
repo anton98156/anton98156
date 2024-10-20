@@ -6,9 +6,7 @@
 
 ###
 
-<div style="text-align: center;">
-    <h1>Привет! Меня зовут Антон 👋</h1>
-</div>
+<h1 align="center">Привет! Меня зовут Антон 👋</h1>
 
 ###
 
