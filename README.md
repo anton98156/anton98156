@@ -10,9 +10,9 @@
 - **Фреймворки**: Spring Boot
 - **Принципы разработки**: SOLID, ООП
 - **Методологии**: Waterfall, Agile, Scrum, Kanban
--  **Инструменты и платформы**:
+- **Инструменты и платформы**:
   - Atlassian Jira
-  - GitHub/GitLab
+  - GitLab
   - Postman
   - REST API
 
