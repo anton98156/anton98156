@@ -26,10 +26,11 @@
 - **Принципы разработки**: ООП, SOLID, DRY, KISS, YAGNI
 - **Методологии**: Agile, Scrum, Kanban, Waterfall
 - **Инструменты и платформы**:
-  - Atlassian Jira
+  - Gradle, Maven
   - Git, CI/CD
   - Swagger, Postman
   - REST API
+  - Atlassian Jira / Confluence
 
 ###
 
