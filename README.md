@@ -21,11 +21,10 @@
 
 ## Навыки
 - **Языки**: Java, SQL
-- **CI/CD**: Опыт работы с CI/CD
 - **Веб-технологии**: HTML, CSS, SCSS, XML, JSON, JavaScript
 - **Фреймворки**: Spring Boot
 - **Принципы разработки**: ООП, SOLID, DRY, KISS, YAGNI
-- **Методологии**: Waterfall, Agile, Scrum, Kanban
+- **Методологии**: Agile, Scrum, Kanban, Waterfall
 - **Инструменты и платформы**:
   - Atlassian Jira
   - Git, CI/CD
