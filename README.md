@@ -20,17 +20,62 @@
 Я java-разработчик с обширным опытом работы над различными приложениями - от небольших проектов до крупных корпоративных сервисов.
 
 ## Навыки
-- **Языки**: Java, SQL
-- **Веб-технологии**: HTML, CSS, SCSS, XML, JSON, JavaScript
-- **Фреймворки**: Spring Boot
-- **Принципы разработки**: ООП, SOLID, DRY, KISS, YAGNI
-- **Методологии**: Agile, Scrum, Kanban, Waterfall
-- **Инструменты и платформы**:
-  - Gradle, Maven
-  - Git, CI/CD
-  - Swagger, Postman
-  - REST API
-  - Atlassian Jira / Confluence
+## 💻 Языки
+- Java  
+- SQL  
+
+## 🌐 Веб-технологии
+- HTML  
+- CSS  
+- SCSS  
+- JavaScript  
+- XML  
+- JSON  
+- YAML  
+
+## ⚙️ Фреймворки и библиотеки
+- Spring Boot  
+- Hibernate  
+- JPA  
+- JDBC  
+- Kafka  
+
+## 🧱 Базы данных
+- PostgreSQL  
+- Oracle DB  
+- MySQL  
+
+## 🧩 Принципы и подходы
+- ООП (Object-Oriented Programming)  
+- SOLID  
+- DRY (Don't Repeat Yourself)  
+- KISS (Keep It Simple, Stupid)  
+- YAGNI (You Aren’t Gonna Need It)  
+
+## 📈 Методологии разработки
+- Agile  
+- Scrum  
+- Kanban  
+- Waterfall  
+
+## 🧰 Инструменты и платформы
+- Gradle  
+- Maven  
+- Docker  
+- Git / GitLab  
+- CI/CD  
+- Swagger  
+- Postman  
+- REST API  
+- DBeaver  
+- IntelliJ IDEA  
+- VS Code  
+- Atlassian Jira / Confluence  
+
+## 🐧 Операционные системы
+- Linux (Fedora / Ubuntu) — основной  
+- macOS  
+- Windows  
 
 ###
 
