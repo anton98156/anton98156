@@ -6,7 +6,7 @@
 
 ###
 
-<h1 align="center">Привет! Меня зовут Антон 👋</h1>
+<h1 align="center">Hi! My name is Anton 👋</h1>
 
 ###
 
@@ -16,15 +16,16 @@
   </a>
 </div>
 
-## О себе
-Я java-разработчик с обширным опытом работы над различными приложениями - от небольших проектов до крупных корпоративных сервисов.
+## About Me
+I am a Java developer with extensive experience working on various applications — from small projects to large enterprise and high-load systems.
 
-## Навыки
-## 💻 Основные языки
+## Skills
+
+## 💻 Core Languages
 - Java  
 - SQL  
 
-## 🌐 Веб-технологии
+## 🌐 Web Technologies
 - HTML  
 - CSS  
 - SCSS  
@@ -33,52 +34,68 @@
 - JSON  
 - YAML  
 
-## ⚙️ Фреймворки и библиотеки
-- Spring  
+## ⚙️ Frameworks & Libraries
+- Spring (Spring Boot, Spring Cloud)  
 - Hibernate  
 - JPA  
 - JDBC  
 
-## ⚙️ Брокеры сообщений
-- Kafka
+## ⚙️ Architecture & System Design
+- Microservices Architecture  
+- Distributed Systems  
+- Highload Systems  
+- Event-Driven Architecture  
+- RESTful APIs  
+- gRPC  
+- System Design & Scalability  
 
-## 🧱 Базы данных
+## ⚙️ Message Brokers & Streaming
+- Apache Kafka  
+- RabbitMQ  
+
+## 🧱 Databases
 - PostgreSQL  
 - Oracle DB  
 - MySQL  
+- Redis  
 
-## 🧩 Принципы и подходы
-- SOLID
-- ООП (Object-Oriented Programming)    
+## ☁️ Cloud & DevOps
+- Docker  
+- Kubernetes  
+- CI/CD (GitLab CI, Jenkins)  
+- Nginx  
+
+## 🧩 Principles & Approaches
+- SOLID  
+- OOP (Object-Oriented Programming)  
 - DRY (Don't Repeat Yourself)  
 - KISS (Keep It Simple, Stupid)  
 - YAGNI (You Aren’t Gonna Need It)  
+- Clean Architecture  
+- Domain-Driven Design (DDD)  
 
-## 📈 Методологии разработки
+## 📈 Development Methodologies
 - Agile  
 - Scrum  
 - Kanban  
 - Waterfall  
 
-## 🧰 Инструменты и платформы
+## 🧰 Tools & Platforms
 - Gradle  
 - Maven  
-- Docker  
 - Git / GitLab  
-- CI/CD  
-- Swagger  
+- Swagger / OpenAPI  
 - Postman  
-- REST API  
 - DBeaver  
 - IntelliJ IDEA  
 - VS Code  
 - Atlassian Jira / Confluence  
 
-## 🐧 Операционные системы
-- Linux (Fedora / Ubuntu) — основной  
-- MacOS  
+## 🐧 Operating Systems
+- Linux (Fedora / Ubuntu) — primary  
+- macOS  
 - Windows  
 
 ###
 
-Спасибо за посещение моего профиля!
+Thanks for visiting my profile!
